@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update Rust crate clap to 4.0.18
+      hash: 74a1a378eee6c989f0829d6c5fb1557876bf394f
+      body: |
+        Update clap to 4.0.18
+
+        Update clap from 2.34.0 to 4.0.18
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+  version: 4.11.0
+  title: "'Update Rust crate clap to 4.0.18'"
+  date: 2022-10-26T00:06:39.761Z
+- commits:
     - subject: Update Rust crate nix to 0.25.0
       hash: ac933b530deb6fb30615de94bdb8d762e00f6a6e
       body: |
